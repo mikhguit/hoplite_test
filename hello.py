@@ -1,0 +1,1 @@
+print("answer: 42")
